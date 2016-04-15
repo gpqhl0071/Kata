@@ -14,3 +14,5 @@ getScore(1); // == 50
 getScore(2); // == 150
 getScore(3); // == 300
 // ...
+
+test
