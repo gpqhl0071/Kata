@@ -3,7 +3,7 @@
 */
 package com.kata.demo;
 
-public class Sequence {
+public class Sequence { 
 	public static final long BASE = 50;
 	
 	public static long getScore(long n) {
